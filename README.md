@@ -1,1 +1,1 @@
-# awsome-third-party-tools-database
+# Awsome third party tools database
